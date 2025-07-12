@@ -1,0 +1,14 @@
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\bin\Debug\net8.0\PracticaGrafos.exe
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\bin\Debug\net8.0\PracticaGrafos.deps.json
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\bin\Debug\net8.0\PracticaGrafos.runtimeconfig.json
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\bin\Debug\net8.0\PracticaGrafos.dll
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\bin\Debug\net8.0\PracticaGrafos.pdb
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.AssemblyInfoInputs.cache
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.AssemblyInfo.cs
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.csproj.CoreCompileInputs.cache
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.dll
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\refint\PracticaGrafos.dll
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.pdb
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\PracticaGrafos.genruntimeconfig.cache
+C:\Users\Loreanny\Desktop\C2-2025\Estructura de datos\PracticaGrafos\obj\Debug\net8.0\ref\PracticaGrafos.dll
