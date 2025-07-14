@@ -55,7 +55,7 @@ namespace MaquinaCafeTDD
                 }
             }
 
-            Console.WriteLine("\nGracias por usar la máquina de café. ¡Hasta luego!");
+                Console.WriteLine("¡Gracias por usar nuestra máquina de café!");
         }
     }
 }
